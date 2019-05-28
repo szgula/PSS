@@ -22,6 +22,7 @@ Dodatkowo użytkownik ma możliwość wprwadzenia maksymalnej energii którą ch
 ![Alt text](zdjecia/main.jpg?raw=true "main_programu")
 
 ### Print-Screen prezentujące działania
+![Alt text](zdjecia/przyklady_my.jpg?raw=true "przyklad")
   
 ### Możliwości przyszłego rozwinięcia projektu:
 1. Implementacja wykresu mocy
