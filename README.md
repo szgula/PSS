@@ -16,6 +16,10 @@ Dodatkowo użytkownik ma możliwość wprwadzenia maksymalnej energii którą ch
   
   
 ### Kod programu:
+![Alt text](zdjecia/kod.jpg?raw=true "kod_programu")
+
+### Blok main
+![Alt text](zdjecia/main.jpg?raw=true "main_programu")
 
 ### Print-Screen prezentujące działania
   
