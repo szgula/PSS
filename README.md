@@ -19,7 +19,14 @@ Dodatkowo użytkownik ma możliwość wprwadzenia maksymalnej energii którą ch
 ![Alt text](zdjecia/kod.jpg?raw=true "kod_programu")
 
 ### Blok main
-![Alt text](zdjecia/main.jpg?raw=true "main_programu")
+![Alt text](zdjecia/main_update.jpg?raw=true "main_programu")
+
+### Blok wykresu w PLC (trace)
+![Alt text](zdjecia/trace.jpg?raw=true "funkcja trace")
+![Alt text](zdjecia/Trace_Start.jpg?raw=true "funkcja trace")
+
+### Blok wyświetlacza HMI
+![Alt text](zdjecia/HMI.JPG?raw=true "wykres na ekranie HMI")
 
 ### Print-Screen prezentujące działania
 ![Alt text](zdjecia/przyklady_my.jpg?raw=true "przyklad")
